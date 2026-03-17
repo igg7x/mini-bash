@@ -29,6 +29,6 @@ Este proyecto profundiza en la interacción entre el software de usuario y el Ke
 Clona el repositorio y compila usando el `Makefile` incluido:
 
 ```bash
-git clone [https://github.com/TU_USUARIO/mini-bash.git](https://github.com/TU_USUARIO/mini-bash.git)
+git clone https://github.com/igg7x/mini-bash.git
 cd mini-bash
 make
