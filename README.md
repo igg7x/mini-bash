@@ -18,7 +18,7 @@ Este proyecto profundiza en la interacción entre el software de usuario y el Ke
 2. **Sincronización:** Implementación de `wait()` para recoger el estado de salida de los hijos y evitar la acumulación de procesos "zombis".
 3. **Manipulación de File Descriptors:** Uso de `open()` y `dup2()` para redirigir los flujos de datos (`stdout`) hacia archivos físicos.
 4. **Parsing de Strings:** Manejo de punteros y buffers en C para tokenizar la entrada del usuario.
-5.**Pipes Multiproceso:** Comunicación bidireccional entre comandos (ej. `ls | grep .c`) mediante el uso de `pipe()` y sincronización de descriptores.
+5. **Pipes Multiproceso:** Comunicación bidireccional entre comandos (ej. `ls | grep .c`) mediante el uso de `pipe()` y sincronización de descriptores.
 
 ## 📦 Instalación y Uso
 ### Requisitos
